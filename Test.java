@@ -4,4 +4,8 @@ public class Test {
     public Test(String haha) {
         this.haha = haha;
     }
+
+    public String getHaha() {
+        return haha;
+    }
 }
